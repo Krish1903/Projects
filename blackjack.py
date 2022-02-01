@@ -1,4 +1,4 @@
-# Krish Dhansinghani bje9jj
+# Krish Dhansinghani
 
 def card_to_value(card):
     """
