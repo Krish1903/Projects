@@ -1,4 +1,4 @@
-#Krish Dhansinghani bje9jj
+#Krish Dhansinghani
 
 num = int (input("Pick a number between 1 and 10: "))
 already_birthday = int (input("If you've already had a birthday this year, enter 1771. Otherwise, enter 1770: "))
