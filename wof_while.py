@@ -1,5 +1,4 @@
-# Name: Sharrer, Krish Dhansinghani
-# Computing ID: wjh2vu, bje9jj
+# Krish Dhansinghani
 
 word = input("Enter a word or phrase:")
 newword=""
