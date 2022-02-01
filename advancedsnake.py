@@ -1,7 +1,5 @@
-# Name: Ashwin Lanka
-# ComputingID: xng3hg
-# Partner Name: Krish Dhansinghani
-# Partner ComputingID: bje9jj
+# Name: Krish Dhansinghani
+
 
 import gamebox
 import pygame
